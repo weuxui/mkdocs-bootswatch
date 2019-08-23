@@ -1,6 +1,6 @@
 title: Home
 
-# MkDocs Bootstrap Theme
+# MkDocs Bootstrap Theme is nice
 
 This project provides [MkDocs] themes for the different Bootstrap themes
 provided by the [Bootswatch] project.
